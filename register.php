@@ -120,7 +120,7 @@
 	                            <td><input type="text" name="namalengkap"></td>
 	                        </tr>
 	                        <tr>
-	                            <td>Alamat</td>
+	                            <td>alamat</td>
 	                            <td><input type="text" name="alamat"></td>
 	                        </tr>
 	                        <tr>
