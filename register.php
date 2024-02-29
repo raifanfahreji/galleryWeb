@@ -112,7 +112,7 @@
 	                            <td><input type="password" name="password"></td>
 	                        </tr>
 	                        <tr>
-	                            <td>Email</td>
+	                            <td>email</td>
 	                            <td><input type="email" name="email"></td>
 	                        </tr>
 	                        <tr>
