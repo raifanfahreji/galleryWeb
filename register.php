@@ -116,7 +116,7 @@
 	                            <td><input type="email" name="email"></td>
 	                        </tr>
 	                        <tr>
-	                            <td>Nama Lengkap</td>
+	                            <td>Nama lengkap</td>
 	                            <td><input type="text" name="namalengkap"></td>
 	                        </tr>
 	                        <tr>
